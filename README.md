@@ -9,3 +9,7 @@ See more [here](http://www.shawnhargreaves.com/egg/).
 July 2015: As the program is freeware, I (René) decided to put it on github.
 
 It obviously needs <code>allegro.h</code>.
+
+## Links
+
+The [Graphic, Design and Font](https://github.com/ReneNyffenegger/Graphic-Design-and-Font) repository.
